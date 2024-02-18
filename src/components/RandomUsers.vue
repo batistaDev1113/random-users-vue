@@ -5,7 +5,7 @@
       class="flex flex-col flex-wrap justify-center lg:justify-start sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4 gap-5"
     >
       <li
-        class="border-2 border-gray-300 p-4 rounded-lg shadow-md hover:shadow-xl transition-shadow duration-200 ease-in-out w-full sm:w-1/2 md:w-1/3 lg:max-w-lg xl:max-w-xl flex flex-col items-center justify-center ml-0 first:ml-4"
+        class="border-2 border-gray-300 p-4 rounded-lg shadow-md hover:shadow-xl transition-shadow duration-200 ease-in-out w-full sm:w-1/2 md:w-1/3 lg:max-w-md xl:max-w-xl flex flex-col items-center justify-center ml-0 sm:first:ml-4"
         v-for="user in users"
         :key="user.email"
       >
