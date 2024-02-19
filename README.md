@@ -8,24 +8,25 @@ This is a simple Vue.js application that uses the Random User API to display a l
 
 - Vue.js
 - Random User API
+- Deployed on Netlify
 
 ## Screenshots
 
 Desktop view:
 
-![alt text](desktop.png)
+![alt text](./src/assets/images/desktop.png)
 
 Laptop:
 
-![alt text](laptop.png)
+![alt text](./src/assets/images/laptop.png)
 
 Mobile view:
 
-![alt text](mobile.png)
+![alt text](./src/assets/images/mobile.png)
 
 Ipad:
 
-![alt text](ipad-1.png)
+![alt text](./src/assets/images/ipad-1.png)
 
 ## Project setup
 
@@ -50,7 +51,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
