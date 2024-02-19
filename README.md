@@ -8,6 +8,7 @@ This is a simple Vue.js application that uses the Random User API to display a l
 
 - Vue.js
 - Random User API
+- Tailwind CSS
 - Deployed on Netlify
 
 ## Screenshots
